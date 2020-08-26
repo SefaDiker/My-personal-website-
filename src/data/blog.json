@@ -1,0 +1,54 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "blogCategory": "Başlangıç",
+            "blogTitle" : "Bu siteyi neden yaptım ?",
+            "slug": "neden-bu-site",
+            "postedOn": "22 Ağustos 2020",
+            "author": "Sefa Diker",
+            "blogImage": "1.jpeg",
+            "blogText": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+        },
+        {
+            "id" : 2,
+            "blogCategory": "Hobi",
+            "blogTitle": "Neden yazılım ile ilgileniyorum?",
+            "slug": "neden-yazilim",
+            "postedOn": "25 Ağustos 2020",
+            "author": "Sefa Diker",
+            "blogImage": "2.jpeg",
+            "blogText": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+        },
+        {
+            "id": 3,
+            "blogCategory": "Spor",
+            "blogTitle": "Neden spor yapmaya çalışmayı seviyorum?",
+            "slug": "neden-spor",
+            "postedOn": "23 Ağustos 2020",
+            "author": "Sefa Diker",
+            "blogImage": "3.jpeg",
+            "blogText": "cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+        },
+        {
+            "id": 4,
+            "blogCategory": "Seyahat",
+            "blogTitle": "Seyahat etmek benim için neden önemli? ",
+            "slug": "neden-seyahat",
+            "postedOn": "23 Ağustos 2020",
+            "author": "Sefa Diker",
+            "blogImage": "4.jpeg",
+            "blogText": "dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"
+        },
+        {
+            "id": 5,
+            "blogCategory": "Moda",
+            "blogTitle": "Yaşam tarzım",
+            "slug": "yasam-tarzım",
+            "postedOn": "23 Ağustos 2020",
+            "author": "Sefa Diker",
+            "blogImage": "5.jpeg",
+            "blogText": "ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"
+        }
+    ]
+}
