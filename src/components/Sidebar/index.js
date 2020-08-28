@@ -34,7 +34,7 @@ const Sidebar = (props) => {
                 <img src={require('./sidebarImages/1.png' )} width="90%"   alt=""  />
                 </div>
                 <div className="cardBody">
-                    <a>Kısaca</a>
+                    <a className="personalBio">Kısaca</a>
                     <p className="personalBio">Ben sefa. Küçüklüğümden bu yana yeni şeyler üretmeyi ve geliştirmeyi çok seviyorum. En ilgi duyduğum ve ilerlemek istediğim alanların başında yazılım geliyor. Son zamanlarda web tasarım ile uğraşıyorum. HTML, CSS ve JavaScript gibi teknolojileri kullanarak işin Front-End kısmına odaklanıyorum. Kendimi geliştirmek için farklı projeler yapıyorum. Bunun benim ilk projem olduğunu belirtmek isterim. </p>
                 </div>
             </Card>
